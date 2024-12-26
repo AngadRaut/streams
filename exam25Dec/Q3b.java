@@ -25,7 +25,7 @@ public class Q3b {
                 upper++;
             }
             // check for special chars
-            if(Character.isLetterOrDigit(stringList.charAt(i))){
+            if(!Character.isLetterOrDigit(stringList.charAt(i))){
                 specialChar++;
             }
         }
