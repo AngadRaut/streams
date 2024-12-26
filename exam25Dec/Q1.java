@@ -30,10 +30,6 @@ public class Q1 {
         List<String> s3 = Arrays.asList(s1.split(""));
         List<String> s4 = Arrays.asList(s2.split(""));
 
-
-
-
-
         // sorting into natural order
         List<String> sort_s3 = s3.stream().sorted().toList();
         List<String> sort_s4 = s4.stream().sorted().toList();
