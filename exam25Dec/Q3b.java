@@ -1,5 +1,6 @@
 package exam25Dec;
 
+// using the Character class methods 
 public class Q3b {
     public static void main(String[] args) {
         String stringList = "Tiger Runs @ The Speed Of 100 km/hour.";
